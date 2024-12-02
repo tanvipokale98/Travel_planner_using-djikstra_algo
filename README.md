@@ -15,13 +15,5 @@ If no direct connection exists, the matrix entry is 0.</li>
 <li>Zero Values:Diagonal entries are set to 0 because the distance from a taluka to itself is zero.
 Non-connected talukas have 0 entries to indicate no direct road.</li>
 </ul>
-
-
-
-
-
-
-
-
 </div>
- 
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.pinterest.com%2Fpin%2F752664156451251817%2F&psig=AOvVaw3BFH0TnhYLevQI5-vV3cX4&ust=1733251381999000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMjZ59veiYoDFQAAAAAdAAAAABAE" alt="Pune District Map"> 
